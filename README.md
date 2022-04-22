@@ -18,7 +18,7 @@
 
 ## Autor
 
-##### Katarine Bezerra de Albuqueruqe
+##### Katarine Bezerra de Albuquerque
 ##### Linkedin: <a href="https://www.linkedin.com/in/katarine-albuquerque/">/katarine-albuquerque</a>
 ##### GitHub: <a href="https://github.com/KatarineAlbuquerque">/KatarineAlbuquerque</a>
 
