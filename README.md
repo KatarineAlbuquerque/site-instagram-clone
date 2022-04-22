@@ -1,7 +1,7 @@
 # Site Instagram Clone
 ## Sobre o projeto
 
-##### Trabalho desenvolvido para o curso oferecido pela Digital Innovation One, a DIO, para o curso de Flexbox em front-end.
+##### Trabalho desenvolvido para o curso oferecido pela Digital Innovation One, a DIO, para a aula de Flexbox em front-end.
 
 ##### O Site Instagram Clone é um trabalho realizado em linguagem de marcação HTML5 para demonstrar as habilidades de como funciona o Flexbox em CSS3, a nova novidade para organizar e facilitar o layout de um site.
 
