@@ -1,7 +1,7 @@
 # Site Instagram Clone
 ## Sobre o projeto
 
-#### Link do Projeto: <a href="https://katarinealbuquerque.github.io/site-instagram-clone/" target="_blank">Instagram Clone</a>
+#### Link do Projeto: <a href="https://katarinealbuquerque.github.io/site-instagram-clone/" target=_blank>Instagram Clone</a>
 
 ##### Trabalho desenvolvido para o curso oferecido pela Digital Innovation One, a DIO, para a aula de Flexbox em front-end.
 
